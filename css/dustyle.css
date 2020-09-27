@@ -711,7 +711,7 @@ input[type="text"]::focus {
 /*///////////////////////////////////////WELCOME MESSAGE/////////////*/
 #add_area .welcome {
 	margin-bottom: 100px;
-	 letter-spacing: 1.5;
+	line-height: 1.5;
 }
 
 #add_area .welcome h2{
