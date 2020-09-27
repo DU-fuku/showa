@@ -57,13 +57,10 @@ body {
 .mb31 {font-family: a-otf-midashi-go-mb31-pr6n, sans-serif;}
 
 
-
-.mt50{
-	margin-top: 50px;
-}
-.mb50{
-	margin-bottom: 50px;
-}
+.mt30{margin-top: 30px;}
+.mt50{margin-top: 50px;}
+.mb30{margin-bottom: 30px;}
+.mb50{margin-bottom: 50px;}
 
 img {
   border-width: 0; }
