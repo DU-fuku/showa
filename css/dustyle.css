@@ -729,6 +729,8 @@ input[type="text"]::focus {
 #add_area .feature {
     width: 968px;	
     margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 100px;
 }
 
 
@@ -755,7 +757,7 @@ input[type="text"]::focus {
     margin-bottom: 15px;
 }
 
-@media only screen and (max-width:1080px) {
+@media only screen and (max-width:880px) {
 	#add_area .feature .kv {
 		height: 120px;}}
 
