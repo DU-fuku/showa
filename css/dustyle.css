@@ -729,7 +729,6 @@ input[type="text"]::focus {
 #add_area .feature {
     width: 968px;	
     margin: 0 auto;
-	height: 314px;
 }
 
 
@@ -752,11 +751,13 @@ input[type="text"]::focus {
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 160px;
+    height: 266px;
     margin-bottom: 15px;
 }
 
-
+@media only screen and (max-width:1080px) {
+	#add_area .feature .kv {
+		height: 166px;}}
 
 /*///////////////////////////////////////IMPORTANT NOTICE/////////////*/
 .important_notice {
