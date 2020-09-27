@@ -656,7 +656,6 @@ input[type="text"]::focus {
 	position: relative;
 	width: 100%;
 	margin: 20px auto 10px;
-	max-height: 70px;
 	height: auto;
 	float: none;
 	text-align: center;
@@ -669,7 +668,7 @@ input[type="text"]::focus {
 .logo-center #shopHeader h1 a,
 .logo-center #shopHeader h1 img{
 	height: auto;
-    max-height: 70px;
+    max-height: 140px;
 }
 @media only screen and (max-width:880px) { 
 .logo-center  #shopHeader h1{
