@@ -1456,7 +1456,8 @@ input[type="text"]::focus {
 	text-decoration: underline;
 }
 #about .about-inner p{
-	font-size: 12px;
+	font-size: 14px;
+	text-align: left;
 }
 #about .about-inner .social {
 	position: relative;
@@ -1530,7 +1531,7 @@ input[type="text"]::focus {
 
 /*///////////////////////////////////////Footer/////////////*/
 #mainFooter {
-    padding: 5% 0;
+    padding: 5% 0 9% 0;
     max-width: 1280px;
     margin: 5% auto 0;
 }
