@@ -172,7 +172,7 @@ input[type="text"]::focus {
 }
 .hovline a::after {
   position: absolute;
-  top: 50%;
+  bottom: 0%;
   left: 0;
   content: '';
   width: 0;
@@ -728,6 +728,8 @@ input[type="text"]::focus {
 	max-width: 1080px;
 	width: 100%;
     margin: 0% auto 10%;
+	border-top: 1px solid #000048;
+    border-bottom: 1px solid #000048;
 }
 #info .col-left{
 	width: 30%;
@@ -736,6 +738,7 @@ input[type="text"]::focus {
 #info .col-right{
 	width: 70%;
 	font-size: 13px;
+	padding: 20px;
 }
 #info .col-right ul li{
 	line-height: 1.5em;
