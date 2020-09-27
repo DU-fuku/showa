@@ -336,6 +336,12 @@ input[type="text"]::focus {
 	display: none;
 }
 
+#shopHeader welcom{
+	width: 80%;
+	padding-bottom: 30px;
+}
+]
+
 
 @media only screen and (max-width:880px) { 
 #baseMenu {
