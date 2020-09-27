@@ -34,7 +34,7 @@ body {
 }
 
 .ntsans { font-family: "Noto Sans JP", sans-serif;}
-.yugo {font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;}
+.yugo {font-family: "Yu Gothic bold", "游ゴシック bold", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;}
 .yumin {font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;}
 
 
@@ -226,9 +226,10 @@ input[type="text"]::focus {
 }
 #shopHeader nav > ul li {
 	margin-right: 4%;
-	font-size: 12px;
+	font-size: 1rem;
 	display: inline-block;
 	vertical-align: middle;
+	font-weight: ;
 }
 #shopHeader nav > ul li:last-child {
 	margin-right: 0%;
