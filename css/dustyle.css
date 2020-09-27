@@ -725,9 +725,11 @@ input[type="text"]::focus {
 
 
 /*///////////////////////////////////////おすすめ　Feature/////////////*/
+
 #add_area .feature {
     width: 968px;	
     margin: 0 auto;
+	height: 314px;
 }
 
 
