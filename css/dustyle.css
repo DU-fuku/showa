@@ -229,7 +229,7 @@ input[type="text"]::focus {
 	font-size: 1rem;
 	display: inline-block;
 	vertical-align: middle;
-	font-weight: ;
+	font-weight: 800;
 }
 #shopHeader nav > ul li:last-child {
 	margin-right: 0%;
