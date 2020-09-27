@@ -29,7 +29,7 @@ body {
 .amat, .pacifico {
 	letter-spacing: normal;
 }
-.yumin, .yugo, .ntsans {
+.yumin, .yugo, .ntsans .mb31 {
 	letter-spacing: 0.08em;
 }
 
@@ -707,6 +707,14 @@ input[type="text"]::focus {
     font-size: 40px;
     left: 6%;
     margin-top: -0.5em;
+}
+/*///////////////////////////////////////WELCOME MESSAGE/////////////*/
+#add_area .welcome {
+	margin-bottom: 50px;
+}
+
+#add_area .welcome h2{
+	margin-left: 5px;
 }
 
 /*///////////////////////////////////////IMPORTANT NOTICE/////////////*/
