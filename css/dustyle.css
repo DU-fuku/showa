@@ -725,26 +725,26 @@ input[type="text"]::focus {
 
 
 /*///////////////////////////////////////おすすめ　Feature/////////////*/
-.feature {
-    width: 980px;	
+#add_area .feature {
+    width: 968px;	
     margin: 0 auto;
 }
 
 
-.feature ul {
+#add_area .feature ul {
     display: flex;
     list-style: none;
     text-align: center;
     margin-bottom: 0;
 }
 
-.feature ul li {
+#add_area .feature ul li {
     width: calc(100% / 3);
     padding: 15px;
     font-weight: bold;
 }
 
-.feature .kv {
+#add_area .feature .kv {
     display: block;
     background-color: #eee;
     background-size: cover;
