@@ -710,12 +710,18 @@ input[type="text"]::focus {
 }
 /*///////////////////////////////////////WELCOME MESSAGE/////////////*/
 #add_area .welcome {
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 #add_area .welcome h2{
-	margin-left: 5px;
+	margin-bottom: 20px;
 }
+@media only screen and (max-width:880px) { 
+	#add_area .welcome{
+		padding: 0 5%;
+	}
+}
+
 
 /*///////////////////////////////////////IMPORTANT NOTICE/////////////*/
 .important_notice {
