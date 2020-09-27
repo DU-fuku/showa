@@ -767,7 +767,12 @@ input[type="text"]::focus {
     height: 246px;
     margin-bottom: 15px;
 }
-
+@media only screen and (max-width:1500px) {
+	#add_area .feature .kv {
+		height: 220px;}}
+@media only screen and (max-width:1200px) {
+	#add_area .feature .kv {
+		height: 190px;}}
 @media only screen and (max-width:880px) {
 	#add_area .feature .kv {
 		height: 120px;}}
