@@ -757,7 +757,7 @@ input[type="text"]::focus {
 
 @media only screen and (max-width:1080px) {
 	#add_area .feature .kv {
-		height: 166px;}}
+		height: 120px;}}
 
 /*///////////////////////////////////////IMPORTANT NOTICE/////////////*/
 .important_notice {
