@@ -779,7 +779,8 @@ input[type="text"]::focus {
 
 @media (max-width: 767px)
 #add_area .feature ul li {
-    width: 100%;
+    box-sizing: border-box;
+	    width: 100%;
     padding: 15px;
     font-weight: bold;
     padding: 0;
