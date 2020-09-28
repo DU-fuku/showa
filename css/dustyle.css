@@ -777,6 +777,14 @@ input[type="text"]::focus {
 	#add_area .feature .kv {
 		height: 120px;}}
 
+@media (max-width: 767px)
+#add_area .feature ul li {
+    width: 100%;
+    padding: 15px;
+    font-weight: bold;
+    padding: 0;
+}
+
 /*///////////////////////////////////////IMPORTANT NOTICE/////////////*/
 .important_notice {
 	
