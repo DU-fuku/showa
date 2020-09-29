@@ -66,6 +66,10 @@ body {
 .mb30{margin-bottom: 30px;}
 .mb50{margin-bottom: 50px;}
 
+.white li{
+	color: FFFF;
+}
+
 .white{
 	color: FFFF;
 }
