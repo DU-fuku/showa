@@ -95,9 +95,6 @@ a {
 	cursor: pointer; 
 }
 
-.white a{
-	color: #FFF;
-}
 @media screen and (min-width: 881px) {
  a:hover{
   	opacity: .7;
