@@ -819,7 +819,6 @@ input[type="text"]::focus {
 }
 #info .col-right ul li{
 	line-height: 1.5em;
-	margin-bottom:20px;
 	/*letter-spacing: -0.5em; */
 }
 #info .col-right ul li:last-child{
